@@ -13,7 +13,7 @@
     background-color: #ffffff;
   }
   .container > footer p , .postheader > a{
-    text-align: center;
+    text-align: right;
   }
   .date {
     text-align: center;
@@ -45,16 +45,6 @@
 </head>
 <body>
   <div class="container">
-  <h1 class="sitename">Daijiang Li</h1>
-  <ul class="nav pills">
-  <li><a href="/"><i class="fa fa-home"></i> Home</a></li>
-  <li><a href="resume.html" title="Curriculumn Vitae"><i class="fa fa-book"></i> Resume</a></li>
-  <li><a href="research.html" title="Research"><i class="fa fa-flask"></i> Research</a></li>
-  <li><a href="links.html" title="Useful links"><i class="fa fa-suitcase"></i> Links</a></li>
-  <li><a href="/cn/"><i class="fa fa-sitemap"></i> Chinese</a></li>
-  <li><a href="/en/"><i class="fa fa-sitemap"></i> English</a></li>
-  <li><a href="README.html"><i class="fa fa-info-circle"></i> </a></li>
-</ul>
 {{ content }}
 <footer>
   <p><small>Copyright 2011 - {{site.time | date:"%Y"}} by <a href="http://daijiang.name">Daijiang Li</a> | <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span></small></p>
