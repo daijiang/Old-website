@@ -24,8 +24,8 @@ I'm a third-year PhD student in the Department of
 I am interested with "the causes and consequences of biodiversity" in community ecology, one of the central goals in ecology. In the face of rapid environmental change worldwide, understanding community assemble rules, community dynamics, the forces and processes underlying and the relationships between biodiversity and ecosystem functioning will be crucial for conserving, managing and restoring the overall biodiversity. My thesis study is long-term dynamics of species, functional trait and phylogenetic structure and composition of central sand plain plant communities in Wisconsin (1958-2012).
 
 ### Contact me
-Department of Botany,  
-University of Wisconsin-Madison,  
-430 Lincoln Drive,  
+Department of Botany  
+University of Wisconsin-Madison  
+430 Lincoln Drive  
 Madison, WI 53706  
-Email: [daijianglee@gmail.com](daijianglee@gmail.com)
+Email: daijianglee@gmail.com
