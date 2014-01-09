@@ -27,6 +27,7 @@ layout: home
 + [ggplot2](http://docs.ggplot2.org/current/) a R package for graphics.
 + [Cookbook for R](http://www.cookbook-r.com/).
 + [UCLA](http://www.ats.ucla.edu/stat/r/)'s resources for R (and more).
++ [R-OpenScience](http://ropensci.org/packages/index.html) some free tools for research.
 
 ## LaTeX
 + [LaTeX](http://www.latex-project.org/) A document preparation system.
