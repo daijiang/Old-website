@@ -28,6 +28,6 @@ Department of Botany
 University of Wisconsin-Madison  
 430 Lincoln Drive  
 Madison, WI 53706  
-<i class="fa fa-envelope fa-2x"></i>: daijianglee@gmail.com
-<a href="https://www.facebook.com/daijianglee"><i class="fa fa-facebook-square fa-2x"></i> Chinese</a>
-<a href="http://www.flickr.com/photos/96722728@N04/"><i class="fa fa-flickr fa-2x"></i> Chinese</a>
+<i class="fa fa-envelope"></i>: daijianglee@gmail.com  
+<a href="https://www.facebook.com/daijianglee"><i class="fa fa-facebook-square"></i></a>   
+<a href="http://www.flickr.com/photos/96722728@N04/"><i class="fa fa-flickr"></i></a>
