@@ -16,6 +16,9 @@ layout: home
 
 
 ## Long-term plant community dynamics
+Ecosystems are increasingly affected by anthropogenic and natural disturbances which have profound influence on biodiversity and ecosystem functioning. Understanding how these disturbances affect plant communities has important implications for maintaining biodiversity and ecological processes, managing these communities, and projecting the response of plant communities to changing disturbance regimes. Yet long-term effects of disturbances on plant community assembly are still poorly understood, mainly because long-term baseline data regarding plant community composition is rare. Fortunately, in Wisconsin, we have excellent baseline data of plant communities because of the the carefully archived data from surveys conducted by J. T. Curtis and colleagues. 
+
+I am using the unusually detailed baseline data from the 1950s to track changes in the over- and under-story composition of sand plain plant communities growing on sandy glacial lake bed sediments in central Wisconsin. 
 
 ## Past Research
 ####Species Evenness and Litter Decomposition
