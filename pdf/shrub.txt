@@ -1,4 +1,4 @@
-﻿Alnus incana (L.) Moench subsp. rugosa (Du Roi) R.T.Clausen
+Alnus incana (L.) Moench subsp. rugosa (Du Roi) R.T.Clausen
 Alnus viridis (Vill.) DC. subsp. crispa (Aiton) Turrill
 Amelanchier arborea (F.Michx.) Fernald
 Amelanchier arborea (F.Michx.) Fernald X A. laevis Wiegand
@@ -208,6 +208,7 @@ Rubus missouricus L.H.Bailey
 Rubus multifer L.H.Bailey
 Rubus multiformis Blanch.
 Rubus occidentalis L.
+Rubus pubescens Raf.
 Rubus parviflorus Nutt.
 Rubus permixtus Blanch.
 Rubus perspicuus L.H.Bailey
