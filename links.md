@@ -16,6 +16,14 @@ layout: home
   <li><a href="README.html"><i class="fa fa-info-circle fa-fw"></i> </a></li>
 </ul>
 
+## Wisconsin flora
++ [List of Trees](http://daijiang.name/pdf/tree.txt)
++ [List of Shrubs](http://daijiang.name/pdf/shrub.txt)
++ [List of Vines](http://daijiang.name/pdf/vine.txt)
++ [List of Fern/fern allies](http://daijiang.name/pdf/fern_fern_allies.txt)
++ [List of Graminoids](http://daijiang.name/pdf/graminoids.txt)
++ [Source of the above lists](http://daijiang.name/en/2014/03/17/plant-growth-form-list-of-wi-plants/)
+
 
 ## R
 + [R](http://www.r-project.org/) a powerful free statistic tool!
