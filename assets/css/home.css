@@ -15,10 +15,6 @@ font-size:24px;
 font-weight:700;
 }
 
-img.bg {
-    left: 50%;
-    margin-left: -512px;   /* 50% */
-  }
 }
 
 html {
@@ -457,7 +453,7 @@ display:none;
 visibility:hidden;
 }
 
-.sitename {
+.name {
 font-size:40px;
 font-weight:700;
 }
