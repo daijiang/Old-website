@@ -1,11 +1,11 @@
 ---
 Title: Daijiang Li::Research
-layout: default
+layout: home
 ---
 
 <h1 class="sitename">Daijiang Li</h1>
   <ul class="nav pills">
-  <li><a href="home.html" title = "Home"><i class="fa fa-home fa-fw"></i> Home</a></li>
+  <li><a href="/"><i class="fa fa-home fa-fw"></i> Home</a></li>
   <li><a href="resume.html" title="Curriculumn Vitae"><i class="fa fa-book fa-fw"></i> Resume</a></li>
   <li class="active"><a href="research.html" title="Research"><i class="fa fa-flask fa-fw"></i> Research</a></li>
   <li><a href="links.html" title="Useful links"><i class="fa fa-suitcase fa-fw"></i> Links</a></li>
