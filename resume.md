@@ -22,8 +22,10 @@ layout: home
 +  2008 ~ 2011, **M.S** School of Life Science, Sun Yat-sen University, China.
 +  2004 ~ 2008, **B.S** School of Life Science, Yunnan University, China.
 
-## Research Experience
-+  2013 Fall and 2012 Fall, Teaching Assistant, Vegetation of Wisconsin (Bot 455) 
+## Experience
++  2014 April 15th, Structure Equation Modeling workshop taught by [James Grace](https://profile.usgs.gov/gracej).
++  2013 Oct. 6-11, volunteer of the fifth world conference on ecological restoration.
++  2013 Fall and 2012 Fall, Teaching Assistant, Vegetation of Wisconsin (Bot 455).
 +  2013 Spring , Teaching Assistant, Introductory Biology (Bio 152).
 +  2011 ~ 2012, Graduate Student Research Assistant, Department of Botany, University of Wisconsin-Madison.
 +  2008 ~ 2011, Master's Thesis Research, School of Life Science, Sun Yat-sen University, China. Thesis: Effects of leaf litter species evenness on decomposition rates.
