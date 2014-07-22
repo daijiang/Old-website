@@ -27,7 +27,7 @@ University of Wisconsin-Madison
 430 Lincoln Drive  
 Madison, WI 53706  
 
-#### I like it when people say hi!
+### I like it when people say hi!
 <a href="mailto: daijianglee@gmail.com"><i class="fa fa-envelope"></i> E-mail</a>    
 <a href="https://twitter.com/_djli"><i class="fa fa-twitter"></i> Twitter</a>  
 <a href="https://www.facebook.com/daijianglee"><i class="fa fa-facebook-square"></i> Facebook</a>   
