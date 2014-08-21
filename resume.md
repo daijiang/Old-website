@@ -1,5 +1,5 @@
 ---
-Title: Daijiang Li::Links
+Title: Daijiang Li::Resume
 layout: home
 ---
 
