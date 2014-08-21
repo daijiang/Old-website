@@ -6,7 +6,7 @@ layout: home
 
   
   <h1 class="sitename">Daijiang Li</h1>
-  <ul class="nav pills">
+<ul class="nav pills">
   <li><a href="/"><i class="fa fa-home fa-fw"></i> Home</a></li>
   <li class="active"><a href="resume.html" title="Curriculumn Vitae"><i class="fa fa-book fa-fw"></i> Resume</a></li>
   <li><a href="research.html" title="Research"><i class="fa fa-flask fa-fw"></i> Research</a></li>
@@ -18,16 +18,17 @@ layout: home
 
 ## Education
 
-+ 2011 ~ Now, **Ph.D** student in the Department of Botany, University of Wisconsin-Madison.
-+ 2013 ~ Now, **M.S** Biometry, Department of Statistics, University of Wisconsin-Madison.
-+ 2008 ~ 2011, **M.S** School of Life Science, Sun Yat-sen University, China.
-+ 2004 ~ 2008, **B.S** School of Life Science, Yunnan University, China.
+- 2011 -- Now, Ph.D student in the Department of Botany, University of Wisconsin-Madison.
+- 2013 -- Now, M.S, Biometry, Department of Statistics, University of Wisconsin-Madison.
+- 2008 -- 2011, M.S, School of Life Science, Sun Yat-sen University, China.
+- 2004 -- 2008, B.S, School of Life Science, Yunnan University, China.
 
 ## Research Interests
 
 Plant community assembly (taxonomic, functional and phylogenetic), Diversity and ecosystem functioning, Network analysis, Species co-occurrence, Multi-level model, Global change.
 
 ## Academic Appointments
+
 + 2014, Graduate Student Research Assistant, Department of Botany, University of Wisconsin-Madison.
 + 2013 Fall, Teaching Assistant, Vegetation of Wisconsin (Bot 455).
 + 2013 Spring, Teaching Assistant, Introductory Biology (Bio 152).
@@ -36,7 +37,7 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 + 2008 ~ 2011, Graduate Student Research Assistant, School of Life Science, State Key Laboratory of Biocontrol, Sun Yat-sen University, China. Thesis: Effects of leaf litter species evenness on decomposition rates.
 
 ## Professional Experience
-+ 2014 April 15th, Structure Equation Modeling workshop taught by [James Grace](https://profile.usgs.gov/gracej).
++ 2014 April 15th, Structure Equation Modeling workshop taught by James Grace.
 + 2013 Oct. 6-11, volunteer of the fifth world conference on ecological restoration.
      
 ## Awards and Grants
