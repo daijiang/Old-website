@@ -1,7 +1,10 @@
 ---
-Title: Daijiang Li::Resume
+Title: Daijiang Li::Links
 layout: home
 ---
+
+
+
   <h1 class="sitename">Daijiang Li</h1>
   <ul class="nav pills">
   <li><a href="/"><i class="fa fa-home fa-fw"></i> Home</a></li>
@@ -10,8 +13,8 @@ layout: home
   <li><a href="links.html" title="Useful links"><i class="fa fa-suitcase fa-fw"></i> Links</a></li>
   <li><a href="/en/"><i class="fa fa-sitemap fa-fw"></i> Blog</a></li>
   <li><a href="/cn/"><i class="fa fa-sitemap fa-fw"></i> Chinese</a></li>
-  <li><a href="README.html"><i class="fa fa-info-circle fa-fw"></i> <a></li>
-  </ul>
+  <li><a href="README.html"><i class="fa fa-info-circle fa-fw"></i> </a></li>
+</ul>
 
 ## Education
 
