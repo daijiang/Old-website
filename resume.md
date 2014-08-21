@@ -17,25 +17,27 @@ layout: home
 </ul>
 
 ## Education
-+  2011 ~ Now, **Ph.D** student in the Department of Botany, University of Wisconsin-Madison.
-+  2013 ~ Now, **M.S** Biometry, Department of Statistics, University of Wisconsin-Madison.
-+  2008 ~ 2011, **M.S** School of Life Science, Sun Yat-sen University, China.
-+  2004 ~ 2008, **B.S** School of Life Science, Yunnan University, China.
+
++ 2011 ~ Now, **Ph.D** student in the Department of Botany, University of Wisconsin-Madison.
++ 2013 ~ Now, **M.S** Biometry, Department of Statistics, University of Wisconsin-Madison.
++ 2008 ~ 2011, **M.S** School of Life Science, Sun Yat-sen University, China.
++ 2004 ~ 2008, **B.S** School of Life Science, Yunnan University, China.
 
 ## Research Interests
+
 Plant community assembly (taxonomic, functional and phylogenetic), Diversity and ecosystem functioning, Network analysis, Species co-occurrence, Multi-level model, Global change.
 
 ## Academic Appointments
-+  2014, Graduate Student Research Assistant, Department of Botany, University of Wisconsin-Madison.
-+  2013 Fall, Teaching Assistant, Vegetation of Wisconsin (Bot 455).
-+  2013 Spring, Teaching Assistant, Introductory Biology (Bio 152).
-+  2012 Fall, Teaching Assistant, Vegetation of Wisconsin (Bot 455).
-+  2011 ~ 2012, Graduate Student Research Assistant, Department of Botany, University of Wisconsin-Madison.
-+  2008 ~ 2011, Graduate Student Research Assistant, School of Life Science, State Key Laboratory of Biocontrol, Sun Yat-sen University, China. Thesis: Effects of leaf litter species evenness on decomposition rates.
++ 2014, Graduate Student Research Assistant, Department of Botany, University of Wisconsin-Madison.
++ 2013 Fall, Teaching Assistant, Vegetation of Wisconsin (Bot 455).
++ 2013 Spring, Teaching Assistant, Introductory Biology (Bio 152).
++ 2012 Fall, Teaching Assistant, Vegetation of Wisconsin (Bot 455).
++ 2011 ~ 2012, Graduate Student Research Assistant, Department of Botany, University of Wisconsin-Madison.
++ 2008 ~ 2011, Graduate Student Research Assistant, School of Life Science, State Key Laboratory of Biocontrol, Sun Yat-sen University, China. Thesis: Effects of leaf litter species evenness on decomposition rates.
 
 ## Professional Experience
-+  2014 April 15th, Structure Equation Modeling workshop taught by [James Grace](https://profile.usgs.gov/gracej).
-+  2013 Oct. 6-11, volunteer of the fifth world conference on ecological restoration.
++ 2014 April 15th, Structure Equation Modeling workshop taught by [James Grace](https://profile.usgs.gov/gracej).
++ 2013 Oct. 6-11, volunteer of the fifth world conference on ecological restoration.
      
 ## Awards and Grants
 + 2013 ~ 2014, The Flora Aeterna Research Grant, $1,500. Department of Botany, University of Wisconsin-Madison.
