@@ -17,9 +17,7 @@ layout: home
 </ul>
 
 ## Education
-
-* 2011 -- Now, Ph.D student in the Department of Botany, University of Wisconsin-Madison.
+2011 -- Now, Ph.D student in the Department of Botany, University of Wisconsin-Madison.
 * 2013 -- Now, M.S, Biometry, Department of Statistics, University of Wisconsin-Madison.
 * 2008 -- 2011, M.S, School of Life Science, Sun Yat-sen University, China.
 * 2004 -- 2008, B.S, School of Life Science, Yunnan University, China.
-
