@@ -39,7 +39,7 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 - 2013 Oct. 6-11, volunteer of the fifth world conference on ecological restoration.
      
 ## Teaching
-- 2014 August 25-26, Software Carpentry Bootcamp, UW-Madison.
+- 2014 August 25-26, Instructor, Software Carpentry Bootcamp, UW-Madison.
 - 2013 Fall, Teaching Assistant, Vegetation of Wisconsin (Bot 455).
 - 2013 Spring, Teaching Assistant, Introductory Biology (Bio 152).
 - 2012 Fall, Teaching Assistant, Vegetation of Wisconsin (Bot 455).
