@@ -56,7 +56,7 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 1. Baoming Chen, Shaolin Peng, Carla M. D'Antonio, **Daijiang Li**, Wentao Ren. (2013). Non-Additive Effects on Decomposition from Mixing Litter of the Invasive *Mikania micrantha* H.B.K. with Native Plants. *PLoS ONE* 8(6): e66289. <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0066289"><i class="fa fa-unlock"></i></a>
 2. **Daijiang Li**, Shaolin Peng, Baoming Chen. (2013). The effects of leaf litter evenness on decomposition depend on which plant functional group is dominant. *Plant and Soil*. 365:1-2, 255-266. <a href="/pdf/D_Li_2012_plantsoil.pdf"><i class="fa fa-download"></i></a>
-3. **Daijiang Li** and **Donald Waller**. *In press*. Drivers of observed biotic homogenization in pine barrens of central Wisconsin. *Ecology*.  <a href="http://www.esajournals.org/doi/pdf/10.1890/14-0893.1"><i class="fa fa-download"></i></a>
+3. **Daijiang Li** and Donald Waller. *In press*. Drivers of observed biotic homogenization in pine barrens of central Wisconsin. *Ecology*.  <a href="http://www.esajournals.org/doi/pdf/10.1890/14-0893.1"><i class="fa fa-download"></i></a>
 
 																																																								  
 ## Presentations and Posters
