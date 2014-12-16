@@ -18,7 +18,7 @@ layout: home
 
 
 <p><img src="http://i.imgur.com/HKoiQ.jpg " title="Daijiang Li" align="right" />
-I'm a third-year PhD student in the Department of
+I'm a fourth-year PhD student in the Department of
 [Botany](http://www.botany.wisc.edu), University of Wisconsin-Madison, working with [Don Waller](http://www.botany.wisc.edu/waller/index.html). I am interested with the causes and consequences of biodiversity, one of the central goals in ecology. In the face of rapid environmental change worldwide, understanding community assemble rules, community dynamics, the forces and processes underlying and the relationships between biodiversity and ecosystem functioning will be crucial for conserving, managing and restoring the overall biodiversity. My thesis study is long-term dynamics of taxonomic, functional trait and phylogenetic dynamics of central sand plain pine barrens communities in Wisconsin (1958-2012).
 
 ### Contact me
