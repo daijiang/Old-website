@@ -52,7 +52,7 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 - 2012 ~ 2013, Davis Research Grant, $1,500. Department of Botany, University of Wisconsin-Madison. 
 - 2013, Phi Beta Kappa (declined), University of Wisconsin-Madison.
 
-## Publication
+## Publications
 
 1. Baoming Chen, Shaolin Peng, Carla M. D'Antonio, **Daijiang Li**, Wentao Ren. (2013). Non-Additive Effects on Decomposition from Mixing Litter of the Invasive *Mikania micrantha* H.B.K. with Native Plants. *PLoS ONE* 8(6): e66289. <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0066289"><i class="fa fa-unlock"></i></a>
 2. **Daijiang Li**, Shaolin Peng, Baoming Chen. (2013). The effects of leaf litter evenness on decomposition depend on which plant functional group is dominant. *Plant and Soil*. 365:1-2, 255-266. <a href="/pdf/D_Li_2012_plantsoil.pdf"><i class="fa fa-download"></i></a>
@@ -75,4 +75,5 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 ## Department Service
 
 - 2013 - 2014, Biology Colloquium Committee, Botany department, UW-Madison.
+- 2013 - 2014, Graduate student Committee, Botany department, UW-Madison.
 - 2012 - 2013, Department Technical Committee, Botany department, UW-Madison.
