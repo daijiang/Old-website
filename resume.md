@@ -83,8 +83,9 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 ## Professional Service and Outreach
 
-Manuscript reviewer for: *Journal of Ecology*.  
-2014, Darwin day volunteer, UW-Madison.  
-2013 - 2014. Biology Colloquium Committee, Botany department, UW-Madison.   
-2013 - 2014. Graduate student Committee, Botany department, UW-Madison.   
-2012 - 2013. Department Technical Committee, Botany department, UW-Madison.   
+Manuscript reviewer for: *Journal of Ecology*.
+
+- 2014, Darwin day volunteer, UW-Madison.
+- 2013 ~ 2014. Biology Colloquium Committee, Botany department, UW-Madison.
+- 2013 ~ 2014. Graduate student Committee, Botany department, UW-Madison.
+- 2012 ~ 2013. Department Technical Committee, Botany department, UW-Madison.
