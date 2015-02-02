@@ -56,7 +56,7 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 <ol reversed>
 
-<li> __Daijiang Li__ and Donald Waller. <i>In press</i>. Drivers of observed biotic homogenization in pine barrens of central Wisconsin. <u><i>Ecology</i><\u>.  <a href="http://www.esajournals.org/doi/abs/10.1890/14-0893.1"><i class="fa fa-download"></i></a> </li>
+<li> **Daijiang Li** and Donald Waller. <i>In press</i>. Drivers of observed biotic homogenization in pine barrens of central Wisconsin. <u><i>Ecology</i><\u>.  <a href="http://www.esajournals.org/doi/abs/10.1890/14-0893.1"><i class="fa fa-download"></i></a> </li>
 
 <li> <b>Daijiang Li</b>, Shaolin Peng, Baoming Chen. (2013). The effects of leaf litter evenness on decomposition depend on which plant functional group is dominant. <u><i>Plant and Soil</i><\u>. 365:1-2, 255-266. <a href="/pdf/D_Li_2012_plantsoil.pdf"><i class="fa fa-download"></i></a> </li>
 
