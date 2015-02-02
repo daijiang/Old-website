@@ -29,28 +29,16 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 ## Academic Appointments
 
-- 2014, Graduate Student Research Assistant, Department of Botany, University of Wisconsin-Madison.
+- 2014 ~ 2015, Graduate Student Research Assistant, Department of Botany, University of Wisconsin-Madison.
 - 2011 ~ 2012, Graduate Student Research Assistant, Department of Botany, University of Wisconsin-Madison.
 - 2008 ~ 2011, Graduate Student Research Assistant, School of Life Science, State Key Laboratory of Biocontrol, Sun Yat-sen University, China. Thesis: Effects of leaf litter species evenness on decomposition rates.
-
-## Professional Experience
-
-- 2014 April 15th, Structure Equation Modeling workshop taught by James Grace.
-- 2013 Oct. 6-11, volunteer of the fifth world conference on ecological restoration.
-     
-## Teaching
-- 2014 August 25-26, Instructor, Software Carpentry Bootcamp, UW-Madison.
-- 2013 Fall, Teaching Assistant, Vegetation of Wisconsin (Bot 455).
-- 2013 Spring, Teaching Assistant, Introductory Biology (Bio 152).
-- 2012 Fall, Teaching Assistant, Vegetation of Wisconsin (Bot 455).
-- 2010 Fall, Teaching Assistant, Restoration Ecology, Sun Yat-sen University, China.
 
 ## Awards and Grants
 
 - 2013 ~ 2014, The Flora Aeterna Research Grant, $1,500. Department of Botany, University of Wisconsin-Madison.
 - 2012 ~ 2013, The Flora Aeterna Research Grant, $5,000. Department of Botany, University of Wisconsin-Madison.
 - 2012 ~ 2013, Davis Research Grant, $1,500. Department of Botany, University of Wisconsin-Madison. 
-- 2013, Phi Beta Kappa (declined), University of Wisconsin-Madison.
+- 2013, Phi Kappa Phi Honor Society (declined), University of Wisconsin-Madison.
 
 ## Publications
 
@@ -66,12 +54,25 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 </ol>
 
-																																																								  
 ## Presentations and Posters
 
 - **Daijiang Li**, Donald Waller, 2014 August, Increases in native, not exotic, species plus succession promote biotic homogenization in the sand plain plant communities of central Wisconsin. *99th Ecological Society of America Annual Meeting*, Sacramento, California, USA. (Oral presentation).
-- **Daijiang Li**, Donald Waller, 2014 March, Long-term dynamics in pine barrens of central Wisconsin. *Wisconsin Ecology Spring Symposium*, Madison, Wisconsin. (Oral presentation).
+- **Daijiang Li**, Donald Waller, 2014 March, Long-term dynamics in pine barrens of central Wisconsin. *Wisconsin Ecology Annual Spring Symposium*, Madison, Wisconsin. (Oral presentation).
  
+## Professional Experience
+
+- 2014 April 15th, Structure Equation Modeling workshop taught by James Grace.
+- 2013 Oct. 6-11, volunteer of the fifth world conference on ecological restoration.
+  
+
+## Teaching
+
+- 2014 August 25-26, Instructor, Software Carpentry Bootcamp, UW-Madison.
+- 2013 Fall, Teaching Assistant, Vegetation of Wisconsin (Bot 455).
+- 2013 Spring, Teaching Assistant, Introductory Biology (Bio 152).
+- 2012 Fall, Teaching Assistant, Vegetation of Wisconsin (Bot 455).
+- 2010 Fall, Teaching Assistant, Restoration Ecology, Sun Yat-sen University, China.
+
 ## Undergraduate Mentoring / Research Training
 
 - 2014, Kelly Wallin, Prepare leaf samples for leaf nutrient analysis.
@@ -80,8 +81,10 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 - 2013, Alex Arena, Collect and measure plant functional traits.
 - 2013, Anna Francke, Changes in overstory structure of pine barrens in Wisconsin from 1958 to 2012.
 
-## Department Service
+## Professional Service and Outreach
 
-- 2013 - 2014, Biology Colloquium Committee, Botany department, UW-Madison.
-- 2013 - 2014, Graduate student Committee, Botany department, UW-Madison.
-- 2012 - 2013, Department Technical Committee, Botany department, UW-Madison.
+Manuscript reviewer for: *Journal of Ecology*.  
+2014, Darwin day volunteer, UW-Madison.  
+2013 - 2014. Biology Colloquium Committee, Botany department, UW-Madison.   
+2013 - 2014. Graduate student Committee, Botany department, UW-Madison.   
+2012 - 2013. Department Technical Committee, Botany department, UW-Madison.   
