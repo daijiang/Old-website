@@ -4,16 +4,15 @@ layout: home
 ---
 
 
-
-  <h1 class="sitename">Daijiang Li</h1>
-  <ul class="nav pills">
-  <li><a href="/"><i class="fa fa-home fa-fw"></i> Home</a></li>
-  <li class="active"><a href="resume.html" title="Curriculumn Vitae"><i class="fa fa-book fa-fw"></i> Resume</a></li>
-  <li><a href="research.html" title="Research"><i class="fa fa-flask fa-fw"></i> Research</a></li>
-  <li><a href="links.html" title="Useful links"><i class="fa fa-suitcase fa-fw"></i> Links</a></li>
-  <li><a href="/en/"><i class="fa fa-sitemap fa-fw"></i> Blog</a></li>
-  <li><a href="/cn/"><i class="fa fa-sitemap fa-fw"></i> Chinese</a></li>
-  <li><a href="README.html"><i class="fa fa-info-circle fa-fw"></i> </a></li>
+<h1 class="sitename"><a href="/">Daijiang Li</a></h1>
+<ul class="nav pills">
+<li><a href="about.html"><i class="fa fa-home fa-fw"></i> About</a></li>
+<li class="active"><a href="resume.html" title="Curriculumn Vitae"><i class="fa fa-book fa-fw"></i> Resume</a></li>
+<li><a href="research.html" title="Research"><i class="fa fa-flask fa-fw"></i> Research</a></li>
+<li><a href="links.html" title="Useful links"><i class="fa fa-suitcase fa-fw"></i> Links</a></li>
+<li><a href="/en/"><i class="fa fa-sitemap fa-fw"></i> Blog</a></li>
+<li><a href="/cn/"><i class="fa fa-sitemap fa-fw"></i> Chinese</a></li>
+<li><a href="README.html"><i class="fa fa-info-circle fa-fw"></i> </a></li>
 </ul>
 
 ## Education
@@ -37,7 +36,7 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 - 2013 ~ 2014, The Flora Aeterna Research Grant, $1,500. Department of Botany, University of Wisconsin-Madison.
 - 2012 ~ 2013, The Flora Aeterna Research Grant, $5,000. Department of Botany, University of Wisconsin-Madison.
-- 2012 ~ 2013, Davis Research Grant, $1,500. Department of Botany, University of Wisconsin-Madison. 
+- 2012 ~ 2013, Davis Research Grant, $1,500. Department of Botany, University of Wisconsin-Madison.
 - 2013, Phi Kappa Phi Honor Society (declined), University of Wisconsin-Madison.
 
 ## Publications
@@ -58,12 +57,12 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 - **Daijiang Li**, Donald Waller, 2014 August, Increases in native, not exotic, species plus succession promote biotic homogenization in the sand plain plant communities of central Wisconsin. *99th Ecological Society of America Annual Meeting*, Sacramento, California, USA. (Oral presentation).
 - **Daijiang Li**, Donald Waller, 2014 March, Long-term dynamics in pine barrens of central Wisconsin. *Wisconsin Ecology Annual Spring Symposium*, Madison, Wisconsin. (Oral presentation).
- 
+
 ## Professional Experience
 
 - 2014 April 15th, Structure Equation Modeling workshop taught by James Grace.
 - 2013 Oct. 6-11, volunteer of the fifth world conference on ecological restoration.
-  
+
 
 ## Teaching
 
@@ -76,7 +75,7 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 ## Undergraduate Mentoring / Research Training
 
 - 2014, Kelly Wallin, Prepare leaf samples for leaf nutrient analysis.
-- 2014, David Barfknecht, Collect and measure plant functional traits. 
+- 2014, David Barfknecht, Collect and measure plant functional traits.
 - 2014, Madeline Grupper, Prepare leaf samples for leaf nutrient analysis.
 - 2013, Alex Arena, Collect and measure plant functional traits.
 - 2013, Anna Francke, Changes in overstory structure of pine barrens in Wisconsin from 1958 to 2012.
