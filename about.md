@@ -4,10 +4,10 @@ layout: home
 ---
 
 
-  
-  <h1 class="sitename">Daijiang Li</h1>
+
+  <h1 class="sitename"><a href="/">Daijiang Li</a></h1>
   <ul class="nav pills">
-  <li class="active"><a href="/"><i class="fa fa-home fa-fw"></i> Home</a></li>
+  <li class="active"><a href="about.html"><i class="fa fa-home fa-fw"></i> About</a></li>
   <li><a href="resume.html" title="Curriculumn Vitae"><i class="fa fa-book fa-fw"></i> Resume</a></li>
   <li><a href="research.html" title="Research"><i class="fa fa-flask fa-fw"></i> Research</a></li>
   <li><a href="links.html" title="Useful links"><i class="fa fa-suitcase fa-fw"></i> Links</a></li>
@@ -28,7 +28,7 @@ University of Wisconsin-Madison
 Madison, WI 53706  
 
 ### I like it when people say hi!
-<a href="mailto: daijianglee@gmail.com"><i class="fa fa-envelope"></i> E-mail</a>    
+<a href="mailto: daijianglee@gmail.com"><i class="fa fa-envelope"></i> E-mail</a>
 <a href="https://twitter.com/_djli"><i class="fa fa-twitter"></i> Twitter</a>  
-<a href="https://www.facebook.com/daijianglee"><i class="fa fa-facebook-square"></i> Facebook</a>   
+<a href="https://www.facebook.com/daijianglee"><i class="fa fa-facebook-square"></i> Facebook</a>
 <a href="http://www.flickr.com/photos/96722728@N04/"><i class="fa fa-flickr"></i> Flickr</a>
