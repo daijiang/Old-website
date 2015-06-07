@@ -27,7 +27,7 @@ University of Wisconsin-Madison
 Madison, WI 53706  
 
 ### I like it when people say hi!
-<a href="mailto: daijianglee@gmail.com"><i class="fa fa-envelope"></i> E-mail</a>
-<a href="https://twitter.com/_djli"><i class="fa fa-twitter"></i> Twitter</a>  
-<a href="https://www.facebook.com/daijianglee"><i class="fa fa-facebook-square"></i> Facebook</a>
-<a href="http://www.flickr.com/photos/96722728@N04/"><i class="fa fa-flickr"></i> Flickr</a>
+<a target="_blank" href="mailto: daijianglee@gmail.com"><i class="fa fa-envelope"></i> E-mail</a>
+<a target="_blank" href="https://twitter.com/_djli"><i class="fa fa-twitter"></i> Twitter</a>  
+<a target="_blank" href="https://www.facebook.com/daijianglee"><i class="fa fa-facebook-square"></i> Facebook</a>
+<a target="_blank" href="http://www.flickr.com/photos/96722728@N04/"><i class="fa fa-flickr"></i> Flickr</a>
