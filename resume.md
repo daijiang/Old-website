@@ -50,7 +50,7 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 <ol reversed>
 
-<li> <b>Daijiang Li</b> and Donald Waller. <i>In press</i>. Drivers of observed biotic homogenization in pine barrens of central Wisconsin. <u><i>Ecology</i></u>.  <a target="_blank" href="http://www.esajournals.org/doi/abs/10.1890/14-0893.1"><i class="fa fa-download"></i></a><br> &nbsp;
+<li> <b>Daijiang Li</b> and Donald Waller. 2015. Drivers of observed biotic homogenization in pine barrens of central Wisconsin. <u><i>Ecology</i></u>. 96:1030–1041 <a target="_blank" href="http://www.esajournals.org/doi/abs/10.1890/14-0893.1"><i class="fa fa-download"></i></a><br> &nbsp;
     Media coverage: <a target="_blank" href="http://news.wisc.edu/23803">University of Wisconsin-Madison News</a>; also printed in <a target="_blank" href="http://www.sciencedaily.com/releases/2015/05/150526123833.htm">Science daily</a>, <a target="_blank" href="http://scienceblog.com/78554/starved-fire-wisconsins-pine-barrens-disappear/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+scienceblogrssfeed+%28ScienceBlog.com%29#Y7pX8tf4VdbXC1gW.97">Science blog</a>, etc.
  </li>
 
