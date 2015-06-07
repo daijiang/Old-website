@@ -34,16 +34,25 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 ## Awards and Grants
 
+- 2015, The Raper Conference Travel Support , $400. Department of Botany, University of Wisconsin-Madison.
 - 2013 ~ 2014, The Flora Aeterna Research Grant, $1,500. Department of Botany, University of Wisconsin-Madison.
 - 2012 ~ 2013, The Flora Aeterna Research Grant, $5,000. Department of Botany, University of Wisconsin-Madison.
 - 2012 ~ 2013, Davis Research Grant, $1,500. Department of Botany, University of Wisconsin-Madison.
 - 2013, Phi Kappa Phi Honor Society (declined), University of Wisconsin-Madison.
+- 2013, First prize for excellent papers by graduate students, Hongda Zhang research fund, Sun Yat-sen University, China
+- 2011, Second award for excellent graduate students, State Key Laboratory of Biocontrol, Sun Yat-sen University, China
+- 2009, 2010, Education Scholarship for Graduate Student (Fellowship), Sun Yat-sen University, China
+- 2009, Excellent prize of presentation in English, Sun Yat-sen University, China
+- 2008, Second Award of National Scholarship, Yunnan University, China
+- 2006, 2007, Second Award of Donglu Scholarship, Yunnan University, China
 
 ## Publications
 
 <ol reversed>
 
-<li> <b>Daijiang Li</b> and Donald Waller. <i>In press</i>. Drivers of observed biotic homogenization in pine barrens of central Wisconsin. <u><i>Ecology</i></u>.  <a href="http://www.esajournals.org/doi/abs/10.1890/14-0893.1"><i class="fa fa-download"></i></a> </li>
+<li> <b>Daijiang Li</b> and Donald Waller. <i>In press</i>. Drivers of observed biotic homogenization in pine barrens of central Wisconsin. <u><i>Ecology</i></u>.  <a href="http://www.esajournals.org/doi/abs/10.1890/14-0893.1"><i class="fa fa-download"></i></a>
+    - Media coverage: <a href="http://news.wisc.edu/23803">University of Wisconsin-Madison News</a>; also printed in <a href="http://www.sciencedaily.com/releases/2015/05/150526123833.htm">Science daily</a>, <a href="http://scienceblog.com/78554/starved-fire-wisconsins-pine-barrens-disappear/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+scienceblogrssfeed+%28ScienceBlog.com%29#Y7pX8tf4VdbXC1gW.97">Science blog</a>, etc.
+ </li>
 
 <li> <b>Daijiang Li</b>, Shaolin Peng, Baoming Chen. (2013). The effects of leaf litter evenness on decomposition depend on which plant functional group is dominant. <u><i>Plant and Soil</i></u>. 365:1-2, 255-266. <a href="/pdf/D_Li_2012_plantsoil.pdf"><i class="fa fa-download"></i></a> </li>
 
