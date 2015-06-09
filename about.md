@@ -17,8 +17,12 @@ layout: home
 
 
 <p><img src="http://i.imgur.com/HKoiQ.jpg " title="Daijiang Li" align="right" />
-I'm a fourth-year PhD student in the Department of
-[Botany](http://www.botany.wisc.edu), University of Wisconsin-Madison, working with [Don Waller](http://www.botany.wisc.edu/waller/index.html). I am interested with the causes and consequences of biodiversity, one of the central goals in ecology. In the face of rapid environmental change worldwide, understanding community assemble rules, community dynamics, the forces and processes underlying and the relationships between biodiversity and ecosystem functioning will be crucial for conserving, managing and restoring the overall biodiversity. My thesis study is long-term dynamics of taxonomic, functional trait and phylogenetic dynamics of central sand plain pine barrens communities in Wisconsin (1958-2012).
+I am a fourth-year PhD student in the Department of
+[Botany](http://www.botany.wisc.edu), University of Wisconsin-Madison, working with [Don Waller](http://www.botany.wisc.edu/waller/index.html). 
+
+I am broadly interested in community ecology, global change ecology, and the causes and consequences of biodiversity. I am getting more interested in ecological modelling and computational ecology recently. In the era of rapid environmental change, understanding long-term dynamics of community structure and biodiversity, as well as the underlying processes and their effects on ecosystem functioning will be crucial for conserving, managing and restoring the overall biodiversity.
+
+My thesis study is about long-term dynamics of taxonomic, functional trait and phylogenetic dynamics of central sand plain pine barrens communities in Wisconsin (1958-2012).
 
 ### Contact me
 Department of Botany  
@@ -27,7 +31,12 @@ University of Wisconsin-Madison
 Madison, WI 53706  
 
 ### I like it when people say hi!
-<a target="_blank" href="mailto: daijianglee@gmail.com"><i class="fa fa-envelope"></i> E-mail</a>
-<a target="_blank" href="https://twitter.com/_djli"><i class="fa fa-twitter"></i> Twitter</a>  
-<a target="_blank" href="https://www.facebook.com/daijianglee"><i class="fa fa-facebook-square"></i> Facebook</a>
-<a target="_blank" href="http://www.flickr.com/photos/96722728@N04/"><i class="fa fa-flickr"></i> Flickr</a>
+<a target="_blank" href="mailto: daijianglee@gmail.com"><i class="fa fa-envelope"></i> E-mail</a>  
+<a target="_blank" href="https://www.linkedin.com/pub/daijiang-li/55/671/935"><i class="fa icon-linkedin-sign"></i> Linkedin</a> 
+<a target="_blank" href="https://twitter.com/_djli"><i class="fa fa-twitter"></i> Twitter</a>    
+<a target="_blank" href="https://www.facebook.com/daijianglee"><i class="fa fa-facebook-square"></i> Facebook</a>  
+<a target="_blank" href="http://www.flickr.com/photos/96722728@N04/"><i class="fa fa-flickr"></i> Flickr</a>   
+
+
+<a target="_blank" href="https://scholar.google.com/citations?user=0I2wXJQAAAAJ&hl=en"> Google Scholar</a>
+
