@@ -49,6 +49,8 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 ## Publications
 
 <ol reversed>
+<li> <b>Daijiang Li</b> and Donald Waller. 2016. Long-term shifts in the patterns and underlying processes of plant associations in Wisconsin forests. <u><i>Global Ecology and Biogeography</i></u>. In press. doi: 10.1111/geb.12432 <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/geb.12432/abstract"><i class="fa fa-download"></i></a><br> 
+ </li>
 
 <li> <b>Daijiang Li</b> and Donald Waller. 2015. Drivers of observed biotic homogenization in pine barrens of central Wisconsin. <u><i>Ecology</i></u>. 96:1030–1041 <a target="_blank" href="http://www.esajournals.org/doi/abs/10.1890/14-0893.1"><i class="fa fa-download"></i></a><br> &nbsp;
     Media coverage: <a target="_blank" href="http://news.wisc.edu/23803">University of Wisconsin-Madison News</a>; also printed in <a target="_blank" href="http://www.sciencedaily.com/releases/2015/05/150526123833.htm">Science daily</a>, <a target="_blank" href="http://scienceblog.com/78554/starved-fire-wisconsins-pine-barrens-disappear/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+scienceblogrssfeed+%28ScienceBlog.com%29#Y7pX8tf4VdbXC1gW.97">Science blog</a>, etc.
