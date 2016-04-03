@@ -15,6 +15,9 @@ layout: home
 <li><a href="README.html"><i class="fa fa-info-circle fa-fw"></i> </a></li>
 </ul>
 
+My CV can beb found here: <a target="_blank" href="/pdf/Li_cv.pdf"><i class="fa fa-download"></i></a>
+
+
 ## Education
 
 - 2011 -- Now, Ph.D student in the Department of Botany, University of Wisconsin-Madison.  
@@ -26,13 +29,13 @@ layout: home
 
 Plant community assembly (taxonomic, functional and phylogenetic), Diversity and ecosystem functioning, Network analysis, Species co-occurrence, Multi-level model, Global change.
 
-## Academic Appointments
+<!-- ## Academic Appointments
 
 - 2014 ~ 2015, Graduate Student Research Assistant, Department of Botany, University of Wisconsin-Madison.
 - 2011 ~ 2012, Graduate Student Research Assistant, Department of Botany, University of Wisconsin-Madison.
-- 2008 ~ 2011, Graduate Student Research Assistant, School of Life Science, State Key Laboratory of Biocontrol, Sun Yat-sen University, China. Thesis: Effects of leaf litter species evenness on decomposition rates.
+- 2008 ~ 2011, Graduate Student Research Assistant, School of Life Science, State Key Laboratory of Biocontrol, Sun Yat-sen University, China. Thesis: Effects of leaf litter species evenness on decomposition rates. -->
 
-## Awards and Grants
+<!-- ## Awards and Grants
 
 - 2015, The Raper Conference Travel Support , $400. Department of Botany, University of Wisconsin-Madison.
 - 2013 ~ 2014, The Flora Aeterna Research Grant, $1,500. Department of Botany, University of Wisconsin-Madison.
@@ -44,12 +47,12 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 - 2009, 2010, Education Scholarship for Graduate Student (Fellowship), Sun Yat-sen University, China
 - 2009, Excellent prize of presentation in English, Sun Yat-sen University, China
 - 2008, Second Award of National Scholarship, Yunnan University, China
-- 2006, 2007, Second Award of Donglu Scholarship, Yunnan University, China
+- 2006, 2007, Second Award of Donglu Scholarship, Yunnan University, China -->
 
 ## Publications
 
 <ol reversed>
-<li> <b>Daijiang Li</b> and Donald Waller. 2016. Long-term shifts in the patterns and underlying processes of plant associations in Wisconsin forests. <u><i>Global Ecology and Biogeography</i></u>. In press. doi: 10.1111/geb.12432 <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/geb.12432/abstract"><i class="fa fa-download"></i></a><br> 
+<li> <b>Daijiang Li</b> and Donald Waller. 2016. Long-term shifts in the patterns and underlying processes of plant associations in Wisconsin forests. <u><i>Global Ecology and Biogeography</i></u>. In press. doi: 10.1111/geb.12432 <a target="_blank" href="http://onlinelibrary.wiley.com/doi/10.1111/geb.12432/abstract"><i class="fa fa-download"></i></a><br>
  </li>
 
 <li> <b>Daijiang Li</b> and Donald Waller. 2015. Drivers of observed biotic homogenization in pine barrens of central Wisconsin. <u><i>Ecology</i></u>. 96:1030–1041 <a target="_blank" href="http://www.esajournals.org/doi/abs/10.1890/14-0893.1"><i class="fa fa-download"></i></a><br> &nbsp;
@@ -64,7 +67,7 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 
 </ol>
 
-## Presentations and Posters
+<!-- ## Presentations and Posters
 
 - **Daijiang Li**, Donald Waller, 2014 August, Increases in native, not exotic, species plus succession promote biotic homogenization in the sand plain plant communities of central Wisconsin. *99th Ecological Society of America Annual Meeting*, Sacramento, California, USA. (Oral presentation).
 - **Daijiang Li**, Donald Waller, 2014 March, Long-term dynamics in pine barrens of central Wisconsin. *Wisconsin Ecology Annual Spring Symposium*, Madison, Wisconsin. (Oral presentation).
@@ -97,4 +100,4 @@ Plant community assembly (taxonomic, functional and phylogenetic), Diversity and
 - 2014, Darwin day volunteer, UW-Madison.
 - 2013 ~ 2014. Biology Colloquium Committee, Botany department, UW-Madison.
 - 2013 ~ 2014. Graduate student Committee, Botany department, UW-Madison.
-- 2012 ~ 2013. Department Technical Committee, Botany department, UW-Madison.
+- 2012 ~ 2013. Department Technical Committee, Botany department, UW-Madison. -->
