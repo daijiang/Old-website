@@ -15,7 +15,7 @@ layout: home
 <li><a href="README.html"><i class="fa fa-info-circle fa-fw"></i> </a></li>
 </ul>
 
-My CV can beb found here: <a target="_blank" href="/pdf/Li_cv.pdf"><i class="fa fa-download"></i></a>
+My CV can be found here: <a target="_blank" href="/pdf/Li_cv.pdf"><i class="fa fa-download"></i></a>
 
 
 ## Education
@@ -25,9 +25,9 @@ My CV can beb found here: <a target="_blank" href="/pdf/Li_cv.pdf"><i class="fa 
 - 2008 -- 2011, M.S, School of Life Science, Sun Yat-sen University, China.  
 - 2004 -- 2008, B.S, School of Life Science, Yunnan University, China.
 
-## Research Interests
+<!-- ## Research Interests
 
-Plant community assembly (taxonomic, functional and phylogenetic), Diversity and ecosystem functioning, Network analysis, Species co-occurrence, Multi-level model, Global change.
+Plant community assembly (taxonomic, functional and phylogenetic), Diversity and ecosystem functioning, Network analysis, Species co-occurrence, Multi-level model, Global change. -->
 
 <!-- ## Academic Appointments
 
